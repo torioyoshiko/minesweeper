@@ -1,5 +1,5 @@
 # Minesweeper game
-Write on Typescript and ReactJS.
+Wrote with Typescript and ReactJS.
 
 # Demo
 https://torioyoshiko.github.io/minesweeper/
